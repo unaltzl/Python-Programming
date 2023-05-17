@@ -372,15 +372,15 @@ for salary in salaries:
 # before: "hi my name is john and i am learning python"
 # after: "Hi mY NaMe iS JoHn aNd i aM LeArNiNg pYtHoN"
 
-range(len("miuul"))
+range(len("unal"))
 range(0, 5)
 
-for i in range(len("miuul")):
+for i in range(len("unal")):
     print(i)
 
 # 4 % 2 == 0
-# m = "miuul"
-# m[0]
+# u = "unal"
+# u[0]
 
 def alternating(string):
     new_string = ""
